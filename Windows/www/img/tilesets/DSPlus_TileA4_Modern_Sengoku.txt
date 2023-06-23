@@ -1,0 +1,48 @@
+﻿Wall A (Concrete)|壁A（コンクリート）
+NONE
+NONE
+Wall D (Concrete)|壁D（コンクリート）
+Ledge A (Meadow)|段差A（草地）
+Ledge B (Dirt)|段差B（土）
+Ledge C (Snow)|段差C（雪）
+Ledge D (Rocky Land)|段差D（岩）
+Wall A (Concrete)|壁A（コンクリート）
+Wall B (Stone)|壁B（石）
+Wall C (Stone)|壁C（石）
+Wall D (Concrete)|壁D（コンクリート）
+Ledge A (Meadow)|段差A（草地）
+Ledge B (Dirt)|段差B（土）
+Ledge C (Snow)|段差C（雪）
+Ledge D (Rocky Land)|段差D（岩）
+Interior Wall A (Wood)|内装壁A（木造）
+Exterior Wall A (Wood)|外装壁A（木造）
+Interior Wall B (Wood)|内装壁B（木造）
+Interior Wall G (Wood)|内装壁G（木造）
+NONE
+NONE
+NONE
+NONE
+Interior Wall A (Wood)|内装壁A（木造）
+Exterior Wall A (Wood)|外装壁A（木造）
+Interior Wall B (Wood)|内装壁B（木造）
+Wooden WallA|木壁A
+Wooden WallB|木壁B
+Exterior Wall E (Wood)|外装壁E（木造）
+Exterior Wall F (Wood)|外装壁F（木造）
+Exterior Wall G (Wood)|外装壁G（木造）
+Interior Wall C (Metal)|内装壁C（鉄）
+Exterior Wall B (Purple)|外装壁B（紫壁）
+Interior Wall D (Purple)|内装壁D（紫壁）
+Exterior Wall C (Metal)|外装壁C（鉄）
+Interior Wall E (Metal)|内装壁E（鉄）
+Exterior Wall D (Metal)|外装壁D（鉄）
+Ledge E (Dirt)|段差E（土）
+Interior Wall F (Metal)|内装壁F（鉄）
+Interior Wall C (Metal)|内装壁C（鉄）
+Exterior Wall A (Purple)|外装壁A（紫壁）
+NONE
+Exterior Wall C (Metal)|外装壁C（鉄）
+NONE
+Exterior Wall D (Metal)|外装壁D（鉄）
+Ledge E (Dirt)|段差E（土）
+Interior Wall F (Metal)|内装壁F（鉄）

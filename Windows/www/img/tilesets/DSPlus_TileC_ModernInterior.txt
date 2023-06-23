@@ -1,0 +1,242 @@
+﻿Bed|ベッド
+Bed|ベッド
+Sofa|ソファ
+Stove|コンロ
+Work Station|調理場
+Work Station|調理場
+Sink|ながし
+Table|テーブル
+Bed|ベッド
+Bed|ベッド
+Sofa|ソファ
+Stove|コンロ
+Work Station|調理場
+Work Station|調理場
+Sink|ながし
+Table with Tray of Tools|テーブルと道具トレイ
+Bed|ベッド
+Bed|ベッド
+Sofa|ソファ
+Sofa|ソファ
+Sofa|ソファ
+Hospital Bed|病院のベッド
+Hospital Bed|病院のベッド
+Table with Tray|テーブルとトレイ
+Hospital Bed|病院のベッド
+Hospital Bed|病院のベッド
+Sofa|ソファ
+Sofa|ソファ
+Sofa|ソファ
+Hospital Bed|病院のベッド
+Hospital Bed|病院のベッド
+Hospital Bed|病院のベッド
+Whiteboard|ホワイトボード
+Whiteboard|ホワイトボード
+Whiteboard|ホワイトボード
+Chalkboard|黒板
+Chalkboard|黒板
+Chalkboard|黒板
+Chalkboard Camera|黒板のカメラ
+Hospital Bed|病院のベッド
+Whiteboard|ホワイトボード
+Whiteboard|ホワイトボード
+Whiteboard|ホワイトボード
+Chalkboard|黒板
+Chalkboard|黒板
+Chalkboard|黒板
+Hospital Light|病院の照明
+Hospital Light|病院の照明
+Sink|ながし
+Sink|ながし
+Sink|ながし
+Bench|ベンチ
+Bench|ベンチ
+Bench|ベンチ
+Hospital Light|病院の照明
+Hospital Light|病院の照明
+Sink|ながし
+Sink|ながし
+Sink|ながし
+Desk|机
+Desk|机
+Desk|机
+Desk|机
+Hospital Monitors|病院のモニター画面
+Screen|目隠し
+Screen|目隠し
+Potted Plant|植木鉢
+Chair|イス
+Chair|イス
+Desk|机
+Statue|像
+Hospital Monitors|病院のモニター画面
+Screen|目隠し
+Screen|目隠し
+Potted Plant|植木鉢
+Chair|イス
+Easel|イーゼル
+Easel|イーゼル
+Statue|像
+Books|本
+Noticeboard|掲示板
+Window|窓
+Anatomy Model|解剖人形
+Chair|イス
+Bookshelf|本棚
+Sockets|電源ソケット
+Piano|ピアノ
+Piano|ピアノ
+Noticeboard|掲示板
+Window|窓
+Skeleton Model|骨人形
+Letter|手紙
+Bookshelf|本棚
+Sockets|電源ソケット
+Piano|ピアノ
+Piano|ピアノ
+Basketball Hoop|バスケットリング
+Basketball Hoop|バスケットリング
+Letter|手紙
+Letter|手紙
+Window|窓
+Broken Window|壊れた窓
+Leaflets|広告チラシ
+Calendar|カレンダー
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Letter|手紙
+Letter|手紙
+Window|窓
+Broken Window|壊れた窓
+Leaflets|広告チラシ
+Calendar|カレンダー
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Desk|机
+Desk|机
+Desk|机
+Pigeonhole|整理棚
+Pigeonhole|整理棚
+Pigeonhole|整理棚
+Desk|机
+Desk|机
+Desk|机
+Desk|机
+Desk|机
+Pigeonhole|整理棚
+Pigeonhole|整理棚
+Pigeonhole|整理棚
+Desk|机
+Desk|机
+Desk|机
+Broken Glass|壊れたガラス
+Broken Glass|壊れたガラス
+Fallen Statue|落ちた像
+Rolled Carpet|巻いたカーペット
+Unit|棚
+Ripped Easel|イーゼル
+Fallen Easel|イーゼル
+Chair|イス
+Fallen Chair|倒れたイス
+Fallen Chair|倒れたイス
+Upside-down Stool|倒れたイス
+Rolled Carpet|巻いたカーペット
+Unit|棚
+Ripped Screen|破れた目隠し
+Ripped Screen|破れた目隠し
+Stool|イス
+Unit with Drawers|棚
+Glass Unit|ガラス棚
+Bookshelf|本棚
+Cupboard|食器棚
+Unit|棚
+Ripped Screen|破れた目隠し
+Ripped Screen|破れた目隠し
+Barrel|樽
+Unit with Drawers|棚
+Glass Unit|ガラス棚
+Bookshelf|本棚
+Cupboard|食器棚
+Mug|マグカップ
+Flowerpot|植木鉢
+Flowerpot|植木鉢
+Basket|籠
+Stack of Baskets|重ねた籠
+NONE
+Urinal|小便器
+Broken Sink|壊れたながし
+Broken Sink|壊れたながし
+Table with Goods|テーブルと商品
+Table with Goods|テーブルと商品
+Table with Goods|テーブルと商品
+Table with Goods|テーブルと商品
+Table|テーブル
+Urinal|小便器
+Broken Sink|壊れたながし
+Broken Sink|壊れたながし
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Shelves|棚
+Bars|牢屋
+Bars|牢屋
+Bars|牢屋
+NONE
+Screen|目隠し
+Screen|目隠し
+Shelves|棚
+Shelves|棚
+Bars|牢屋
+Bars|牢屋
+Bars|牢屋
+Unit with Menu|棚
+Screen|目隠し
+Screen|目隠し
+Shelves|棚
+Shelves|棚
+Photo Booth|フォトブース
+Shop Display (Bunny)|展示(ウサギ)
+Cashier Till|レジ
+Display Case|ディスプレイ
+Wall Hatch|受渡口
+Wall Hatch|受渡口
+Shelves|棚
+Shelves|棚
+Photo Booth|フォトブース
+Shop Display (Bunny)|展示(ウサギ)
+Cashier Till|レジ
+Display Case|ディスプレイ
+Wall Hatch|受渡口
+Wall Hatch|受渡口
+Trays|トレイ
+Tray with Food|トレイと食事
+Poster|ポスター
+Poster|ポスター

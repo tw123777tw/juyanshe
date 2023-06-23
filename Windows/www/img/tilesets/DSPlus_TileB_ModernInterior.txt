@@ -1,0 +1,255 @@
+﻿TRANSPARENT|透明
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Picture Frame|絵画
+NONE
+NONE
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Picture Frame|絵画
+Picture Frame|絵画
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Cuddly Rabbit|ウサギのぬいぐるみ
+Cushion|クッション
+Calendar|カレンダー
+Poster|ポスター
+Bed|ベッド
+Bed (Blanket)|ベッド(毛布)
+Desk|机
+Desk|机
+Potted Plant|植木鉢
+Calendar|カレンダー
+Scroll|掛け軸
+Wall Protrusion|壁の突起
+Bed|ベッド
+Mirror|鏡
+Desk|机
+Desk|机
+Cardboard Box|段ボール
+Cardboard Box|段ボール
+Cardboard Box|段ボール
+Wall Protrusion|壁の突起
+Bed|ベッド
+Chair|イス
+Chair|イス
+Unit with Lamp|卓上ランプ
+Television|テレビ
+Empty Unit Top|チェスト
+Unit with Flowers|花
+Cupboard Door|戸棚
+Television|テレビ
+Chair|イス
+Chair|イス
+Unit Bottom|チェスト
+Teapot and Cups|ティーポットとカップ
+Unit with Drawers|棚
+Bookshelf|本棚
+Cupboard Door|戸棚
+Television|テレビ
+Television|テレビ
+Stereo|ステレオ
+Stereo|ステレオ
+Wardrobe|タンス
+Wardrobe|タンス
+Glass Unit|食器棚
+Glass Unit|食器棚
+Television|テレビ
+Television|テレビ
+Stereo|ステレオ
+Stereo|ステレオ
+Wardrobe|タンス
+Wardrobe|タンス
+Glass Unit|食器棚
+Glass Unit|食器棚
+Futon|布団
+Unit with Picture Frames|絵画
+Unit with Phone|電話
+Empty Unit Top|タンス
+Empty Unit Top|タンス
+Sliding Door|障子
+Sliding Door|ふすま
+Sliding Door|ふすま
+Futon|布団
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Sliding Door|障子
+Sliding Door|ふすま
+Sliding Door|ふすま
+Flowerpot|花瓶
+Cushion|クッション
+Bathtub|バスタブ
+Bathtub|バスタブ
+Fridge|冷蔵庫
+Kitchen Vent|換気口
+Cupboard and Shelves|戸棚
+Cupboard|戸棚
+Sofa|ソファ
+Sofa|ソファ
+Bathtub|バスタブ
+Bathtub|バスタブ
+Fridge|冷蔵庫
+Sink|ながし台
+Cupboard and Shelves|戸棚
+Stove|コンロ
+Sofa|ソファ
+Sofa|ソファ
+Bathtub|バスタブ
+Bathtub|バスタブ
+Foot Stool|台
+Kitchen Unit|キッチン
+Kitchen Unit|キッチン
+Oven|オーブン
+Sofa|ソファ
+Sofa|ソファ
+Bathtub|バスタブ
+Bathtub|バスタブ
+Toilet|トイレ
+Sink and Mirror|洗面台
+Sink and Mirror|洗面台
+Washing Machine|洗濯機
+Sofa|ソファ
+Sofa|ソファ
+Bathtub|バスタブ
+Vent|換気扇
+Toilet|トイレ
+Sink and Mirror|洗面台
+Sink and Mirror|洗面台
+Washing Machine|洗濯機
+Shower Curtain|シャワーカーテン
+Shower Curtain|シャワーカーテン
+Shower Curtain|シャワーカーテン
+Shower|シャワー
+Urinal|小便器
+Toilet|トイレ
+Laundry Basket|洗濯かご
+Laundry Basket|洗濯かご
+Shower Curtain|シャワーカーテン
+Shower Curtain|シャワーカーテン
+Shower Curtain|シャワーカーテン
+Shower|シャワー
+Urinal|小便器
+Toilet|トイレ
+Crib|ベビーベッド
+NONE
+NONE
+NONE
+NONE
+Shower|シャワー
+NONE
+NONE
+Crib|ベビーベッド
+NONE
+Window|窓
+Window|窓
+NONE
+Map|地図
+Map|地図
+Elevator|エレベータ
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Window|窓
+Window|窓
+Phone|電話
+Cupboard|戸棚
+Vault|金庫
+Elevator|エレベータ
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Window|窓
+Window with Blinds|ブラインド窓
+Window with Blinds|ブラインド窓
+Noticeboard|掲示板
+X-Ray Board|X線ボード
+X-Ray Board|X線ボード
+Evidence|指名手配
+Switchboard|スイッチ
+Window|窓
+Window with Blinds|ブラインド窓
+Window with Blinds|ブラインド窓
+Noticeboard|掲示板
+X-Ray Board|X線ボード
+X-Ray Board|X線ボード
+Evidence|指名手配
+Controls|制御装置
+Unit with Shelves|棚
+Unit with Books|本棚
+Unit with Doors|戸棚
+Locker|ロッカー
+Glass Unit|ガラス棚
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Fax Machine|ファックス
+Unit with Shelves|棚
+Unit with Books|本棚
+Unit with Doors|戸棚
+Locker|ロッカー
+Glass Unit|ガラス棚
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Wall Protrusion|壁の突起
+Glass Chamber|ガラスの小室
+Power Supply|電源
+Lockers|ロッカー
+Lockers|ロッカー
+Lockers|ロッカー
+Lockers|ロッカー
+Unit|ロッカー
+Wall Protrusion|壁の突起
+Glass Chamber|ガラスの小室
+Power Supply|電源
+Lockers|ロッカー
+Lockers|ロッカー
+Lockers|ロッカー
+Lockers|ロッカー
+Unit|ロッカー
+Unit with Document|記録
+Phone|電話
+Chair|イス
+Chair|イス
+Wheelchair|車いす
+Stool|イス
+Chair|イス
+Paper Tray|書類トレイ
+Controls|制御装置
+Chair|イス
+Chair|イス
+Chair|イス
+Chair|イス
+Chair|イス
+Chair|イス
+Computer|コンピュータ
+Computer|コンピュータ
+Chair|イス
+Chair|イス
+Opposing Desks|対面机
+Opposing Desks|対面机
+Desk|机
+Desk with Books|机と本
+Computer|コンピュータ
+Opposing Computers|対面するコンピュータ
+Books|本
+Laptop|ノートパソコン
+Opposing Desks|対面机
+Opposing Desks|対面机
+Desk|机
+Desk|机
+Computer|コンピュータ
+Opposing Computers|対面するコンピュータ
+Phone|電話
+Noticeboard|掲示板
+Bookshelf|本棚
+Screen|画面
+Bookshelf|本棚
+Unit|チェスト
+Unit with Surgeon Tools|チェスト

@@ -1,0 +1,128 @@
+﻿Lights|ライト
+Controls/Cables|管制ケーブル
+Shelves|棚
+Cupboard|戸棚
+Cupboard with Items|アイテム入り戸棚
+Cupboard with Gun|銃入り戸棚
+Cupboard with Armor|防具入り戸棚
+Hologram of Clothes|服のホログラム
+Bottom Wall|壁底
+Controls/Cables|管制ケーブル
+Shelves|棚
+Cupboard|戸棚
+Cupboard with Items|アイテム入り戸棚
+Cupboard with Gun|銃入り戸棚
+Cupboard with Armor|防具入り戸棚
+Hologram of Clothes|服のホログラム
+Light on Wall|壁に光
+Bar|バー
+Bar|バー
+Bar with Drinks|飲み物とバー
+Bar with Drinks|飲み物とバー
+Rock on Cliff Face|岩壁面
+Dirt|荒れ地
+Shrub on Dirt|荒れ地に草
+Light on Wall|壁に光
+Bar|バー
+Bar|バー
+Bar with Drinks|飲み物とバー
+Bar with Drinks|飲み物とバー
+Cliff Face|壁面
+Cliff Face|壁面
+Shrubs on Dirt|荒れ地に草
+Cement Floor|セメント床
+Cement Floor|セメント床
+Cement Floor|セメント床
+Light (Cement Floor)|光(セメント床)
+Light (Cement Floor)|光(セメント床)
+Light (Cement Floor)|光(セメント床)
+Cliff Opening|崖穴
+Shrubs on Dirt|荒れ地に草
+Dark Floor|濃い床
+Dark Floor|濃い床
+Dark Floor|濃い床
+Metal Floor|鉄床
+Metal Floor with Green Goop|鉄床と緑光
+Metal Floor with Green Goop|鉄床と緑光
+Cliff Opening|崖穴
+Metal Scraps|鉄くず
+Blue Floor|青い床
+Tiled Floor|タイル床
+Lined Floor|線入り床
+Tiled Floor|タイル床
+Tiled Floor|タイル床
+Tiled Floor|タイル床
+NONE
+Metal Scraps|鉄くず
+Green Floor|緑床
+Stone Tiled Floor|石タイル床
+Stone Tiled Floor|石タイル床
+Blue Tiled Floor|青タイル床
+Vent|通気孔
+Glowing Vent|光る通気孔
+NONE
+NONE
+Decorative Dark Floor|模様入り濃い床
+Decorative Dark Floor|模様入り濃い床
+Decorative Dark Floor|模様入り濃い床
+Decorative Dark Floor|模様入り濃い床
+White Road Line|道の白ライン
+White Road Line|道の白ライン
+NONE
+NONE
+Space|宇宙
+Space|宇宙
+Space|宇宙
+Space (Large Asteroid)|宇宙(巨大小惑星)
+Space (Small Asteroids)|宇宙(小惑星)
+Space (Earth)|宇宙(地球)
+Space (Sun)|宇宙(太陽)
+Space (Mars)|宇宙(火星)
+Stone Floor|石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Decorative Stone Floor|模様入り石床
+Light|光
+Light|光
+Light|光
+Metal Surface|鉄表面
+Metal Surface|鉄表面
+Metal Surface|鉄表面
+Futuristic Stairway|近未来階段
+Futuristic Stairway|近未来階段
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Metal Surface|鉄表面
+Decorative Metal Wall|模様入り鉄壁
+Metal Surface|鉄表面
+Futuristic Stairway|近未来階段
+Futuristic Stairway|近未来階段
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Metal Protrusion|鉄突起
+Decorative Metal Wall|模様入り鉄壁
+Metal Surface|鉄表面
+Futuristic Stairway|近未来階段
+Futuristic Stairway|近未来階段
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Metal Protrusion|鉄突起
+Water (Decorative Metal Wall)|水場(模様入り鉄床)
+Water (Decorative Metal Wall)|水場(模様入り鉄床)
+NONE
+NONE
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Decorative Metal Wall|模様入り鉄壁
+Metal Protrusion (Stone Floor)||鉄突起(石床)
+NONE
+NONE
+NONE
+NONE

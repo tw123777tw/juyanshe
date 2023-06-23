@@ -1,0 +1,16 @@
+﻿Sea Water|海
+Ship Hull (Sea water)|船体（海）
+Sea Water (Grass field)|海（草原）
+Sea Water (Snow field)|海（雪原）
+LavaA|溶岩A
+LavaB|溶岩B
+Sewer Water|下水道
+Water A (Stone wall)|水場A（石壁）
+Water A|水場A
+Ship Wall (Dark Sea Water)|船壁（濃海）
+Water A (Grass field)|水場A（草原）
+Dark Sea Water|濃海
+River|川
+River|川
+Water A (Snow field)|水場A（雪原）
+River|川

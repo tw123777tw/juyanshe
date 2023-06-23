@@ -1,0 +1,226 @@
+﻿Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Wall Protrusion|壁の突起
+Wall|壁
+Wall|壁
+Wall|壁
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Wall Protrusion|壁の突起
+Wall|壁
+Window|窓
+Wall|壁
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Wall with Vine|壁とツル
+Wall|壁
+Wall|壁
+Stone Surface|石壁面
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Subway Entrance|地下鉄入口
+Rooftop|屋上
+Rails|柵
+Stone Wall Sign|石壁と掲示物
+Stone Wall|石壁
+Entrance|入口
+NONE
+Entrance|入口
+Rooftop|屋上
+Rooftop|屋上
+Rails|柵
+Stone Wall Drain|石壁の排水口
+Stone Wall Hole|石壁の穴
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Rooftop|屋上
+Rooftop|屋上
+Wall|壁
+Window|窓
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Rooftop|屋上
+Wall Protrusion|壁の突起
+Statue|像
+Window|窓
+Window|窓
+Entrance|入口
+NONE
+Entrance|入口
+Rooftop|屋上
+NONE
+Statue|像
+Wall|壁
+Wall|壁
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+NONE
+NONE
+Roof Decoration|屋根飾り
+Roof Decoration|屋根飾り
+Camera|カメラ
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Roof Decoration|屋根飾り
+Roof Decoration|屋根飾り
+NONE
+Rooftop Rails|屋上の柵
+NONE
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Pool Ladder|プールの手すり
+Pool Ladder|プールの手すり
+NONE
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Rooftop Rails|屋上の柵
+Pool Ladder|プールの手すり
+Pool Ladder|プールの手すり
+NONE
+Wall|壁
+Wall|壁
+Wall|壁
+Wall|壁
+NONE
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Pool|プール
+Pool|プール
+Pool|プール
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Pool|プール
+Pool|プール
+Pool|プール
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+Metal Fence|鉄のフェンス
+NONE
+Metal Fence|鉄のフェンス
+Pool|プール
+Pool|プール
+Pool|プール
+Sink|ながし
+Sink|ながし
+Sink|ながし
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Sink|ながし
+Sink|ながし
+Sink|ながし
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Belltower (Snow)|鐘の塔(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Belltower (Snow)|鐘の塔(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Snow|雪
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Igloo|イグルー
+Igloo|イグルー
+Igloo|イグルー
+Window|窓
+Window|窓
+Window|窓
+Chimney|煙突
+Chimney|煙突
+Igloo|イグルー
+Igloo|イグルー
+Igloo|イグルー
+Stump (Snow)|切り株(雪)
+Tree (Snow)|木(雪)
+Tree (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Igloo|イグルー
+Igloo|イグルー
+Igloo|イグルー
+Bush (Snow)|茂み(雪)
+Tree (Snow)|木(雪)
+Tree (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Overgrowth|茂み
+Overgrowth|茂み 
+Snowman|雪だるま
+Melted Snowman|溶けた雪だるま
+Alien Ruin|異星の遺跡
+Alien Ruin|異星の遺跡
+Overgrown Cliff|崖の茂み
+Overgrown Cliff|崖の茂み
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Ruin|茂った異星・遺跡
+Overgrown Entrance|茂った場所の入口
+Overgrown Cliff|崖の茂み
+Overgrown Cliff|崖の茂み
+Overgrown Cliff|崖の茂み
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Entrance|茂った異星・入口
+Overgrown Alien Ruin|茂った異星・遺跡
+Overgrown Entrance|茂った場所の入口
+Overgrown Cliff|崖の茂み
+Overgrown Cliff|崖の茂み
+Overgrown Cliff|崖の茂み
+Rock (Ruins)|石(遺跡)
+Rock (Ruins)|石(遺跡)
+Metal Scrap|鉄くず
+Metal Scrap|鉄くず
+Metal Scrap|鉄くず
+Skeleton|骸骨
+NONE
+NONE
+Rock (Ruins)|石(遺跡)
+Rock (Ruins)|石(遺跡)
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Rock (Ruins)|石(遺跡)
+Rock (Ruins)|石(遺跡)

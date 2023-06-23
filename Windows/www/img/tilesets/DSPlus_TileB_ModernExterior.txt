@@ -1,0 +1,256 @@
+﻿TRANSPARENT
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Shop Sign|店看板
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Shop Sign|店看板
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Shop Sign|店看板
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Shop Sign|店看板
+Shop Sign|店看板
+Shop Sign|店看板
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Shop Sign|店看板
+Shop Sign|店看板
+Shop Sign|店看板
+Road Sign|道路標識
+Table|テーブル
+Table with Goods|テーブルと商品
+Table with Goods|テーブルと商品
+Table with Goods|テーブルと商品
+Shop Sign|店看板
+Shop Sign|店看板
+Flowerbed|花壇
+Flowerbed|花壇
+Bench|ベンチ
+Bench|ベンチ
+Bench|ベンチ
+Bench|ベンチ
+Shop Veranda|店先
+Shop Veranda|店先
+Shop Veranda|店先
+Phone Booth|電話ボックス
+Vending Machine|自動販売機
+Vending Machine|自動販売機
+Station Entrance|駅出入口
+Station Entrance|駅出入口
+Shop Veranda|店先
+Shop Veranda|店先
+Shop Veranda|店先
+Phone Booth|電話ボックス
+Vending Machine|自動販売機
+Vending Machine|自動販売機
+Station Entrance|駅出入口
+Station Entrance|駅出入口
+Shop Veranda|店先
+Shop Veranda|店先
+Shop Veranda|店先
+Trash Can|ゴミ箱
+Metal Rail|ガードレール
+Metal Rail|ガードレール
+Tent|テント
+Manhole Cover|マンホールカバー
+Vent|室外機
+Vent|室外機
+Mail Box|ポスト
+Trash|ゴミ
+Shop Display (Bunny)|商品展示(ウサギ)
+Tent|テント
+Tent|テント
+Tent|テント
+Sign|立札
+Sign|立札
+Traffic Cone|交通コーン
+Traffic Barrier|バリケード
+Shop Display (Bunny)|商品展示(ウサギ)
+Tent|テント
+Tent|テント
+Tent|テント
+Display Flag|のぼり
+Parking Meter|駐車メーター
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Display Flag|のぼり
+Parking Meter|駐車メーター
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Streetlamp|街灯
+Streetlamp|街灯
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Traffic Post|電柱
+Car|車
+Car|車
+Traffic Post|電柱
+Traffic Post|電柱
+Pipes|土管
+Pipes|土管
+Construction Site|工事現場
+Construction Site|工事現場
+Car|車
+Car|車
+Traffic Post|電柱
+Construction Site|工事現場
+Construction Site|工事現場
+Construction Site|工事現場
+Construction Site|工事現場
+Construction Site|工事現場
+Car|車
+Car|車
+Wall Top|塀の上
+Wall Top|塀の上
+Wall Top|塀の上
+Wall Top|塀の上
+Construction Site|工事現場
+Construction Site|工事現場
+Car|車
+Car|車
+Wall Top|塀の上
+Wall Top|塀の上
+Wall Top|塀の上
+Wall Top|塀の上
+NONE
+NONE
+Car|車
+Car|車
+Wall Top|塀の上
+Wall Top|塀の上
+Wall|壁
+Bike Rack|駐輪スペース
+Bike Rack|駐輪スペース
+Bike Rack|駐輪スペース
+Car|車
+Car|車
+Bush|茂み
+Bush|茂み
+Bush|茂み
+Flower|花
+Shrubs|草
+Bush|茂み
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Bush|茂み
+NONE
+Wall|壁
+Railing|レール
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+NONE
+NONE
+Pipe on Wall|壁の配管
+Water|水場
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+NONE
+NONE
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Wall|壁
+Wall|壁
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Bush|茂み
+Bush|茂み
+Bush|茂み
+Wall|壁
+Wall|壁
+Wall|壁
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Bush|茂み
+Bush|茂み
+Bush|茂み
+Wall|壁
+Wall|壁
+Wall|壁
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Bush|茂み
+Bush|茂み
+Bush|茂み
+Wall|壁
+Wall|壁
+Wall|壁
+Railings over River|川の上のレール
+Railings over River|川の上のレール

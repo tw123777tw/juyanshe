@@ -1,0 +1,256 @@
+﻿Grass Cliff|草地の崖
+Grass Cliff|草地の崖
+Grass Cliff|草地の崖
+Sand|砂
+Rock|岩
+Shell|貝
+Skeleton|骨
+Books|本
+Snow Cliff|雪の崖
+Snow Cliff|雪の崖
+Snow Cliff|雪の崖
+Seaweed|海藻
+Conch|巻貝
+Conch|巻貝
+Skeleton|骨
+Books|本
+Sand Cliff|砂の崖
+Sand Cliff|砂の崖
+Sand Cliff|砂の崖
+Shells|貝
+Shells|貝
+Sand|砂
+Logs|薪
+Saucepan|鍋
+Stone Steps|石の段差
+Dirt Steps|土の段差
+Snow Steps|雪の段差
+Metal Scrap|鉄くず
+Metal Scrap|鉄くず
+Metal Scrap|鉄くず
+Rock Fragment|石の断片
+Bread Basket|パン入り籠
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Shrub (Snow)|草(雪)
+Bush (Snow)|茂み(雪)
+Logs (Snow)|薪(雪)
+Stump (Snow)|切り株(雪)
+NONE
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+NONE
+Well (Snow)|井戸(雪)
+Snowman|雪だるま
+Melted Snowman|溶けた雪だるま
+Sign|看板
+NONE
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+STree|木tlamp|街灯
+STree|木tlamp|街灯
+STree|木tlamp|街灯
+STree|木tlamp|街灯
+NONE
+NONE
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Railing|レール
+NONE
+Clock|時計
+Car|車
+Car|車
+Car|車
+Railings over River|川の上のレール
+Railings over River|川の上のレール
+Window|窓
+Vending Machine|自動販売機
+Vending Machine|自動販売機
+Car|車
+Car|車
+Car|車
+Vanity Table|化粧台
+NONE
+Window|窓
+Vending Machine|自動販売機
+Vending Machine|自動販売機
+Car|車
+Car|車
+Car|車
+Vanity Table|化粧台
+Rowboat|ボート
+Rowboat|ボート
+Rowboat|ボート
+Rowboat|ボート
+Car|車
+Car|車
+Car|車
+NONE
+Rowboat|ボート
+Rowboat|ボート
+Rowboat|ボート
+Rowboat|ボート
+Car|車
+Car|車
+Car|車
+NONE
+Motorboat|モーターボート
+Motorboat|モーターボート
+Border|仕切り
+Border|仕切り
+Car|車
+Car|車
+Car|車
+NONE
+Motorboat|モーターボート
+Motorboat|モーターボート
+Border|仕切り
+Menu|メニュー
+Car|車
+Car|車
+Car|車
+NONE
+NONE
+NONE
+Wall Hatch with Tray|受渡口とトレイ
+Wall Hatch with Tray|受渡口とトレイ
+Car|車
+Car|車
+Car|車
+NONE
+NONE
+NONE
+Wall Hatch with Tray|受渡口とトレイ
+Wall Hatch with Tray|受渡口とトレイ
+Car|車
+Car|車
+Car|車
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Tree Overlap|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Plant Pot with Tree|プランターと木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Palm Tree|木
+Palm Tree|木
+Palm Tree Overlap|木
+Palm Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Tree Overlap|木
+Palm Tree|木
+Palm Tree|木
+Palm Tree Overlap|木
+Palm Tree Overlap|木
+Flowers|花
+Shrubs|草
+Bush|茂み
+Bush|茂み
+NONE
+NONE
+Plant Pot|プランター
+Plant Pot|プランター
+Plant Pot|プランター
+Vines|ツル
+Flowers|花
+Flowers|花
+NONE
+NONE
+Plant Pot|プランター
+Plant Pot|プランター
+Plant Pot|プランター
+Vines|ツル
+Rock|岩
+Pebbles|小石
+NONE
+NONE
+Plant Pot|プランター
+Plant Pot|プランター
+Plant Pot|プランター
+Stump|切り株
+Shrubs|草
+Shrubs|草
+Cliff Edge|崖の縁
+Cliff Edge|崖の縁
+Cliff Bottom|崖底
+Cliff Bottom|崖底
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+NONE
+NONE
+NONE
+NONE
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+NONE
+NONE
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+NONE
+NONE
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+NONE
+NONE
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+NONE
+NONE
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Snow Cliff Edge|雪の崖の縁
+Grass Cliff Edge|草地の崖の縁
+Grass Cliff Edge|草地の崖の縁
+NONE
+NONE
+Glass Unit|棚
+Glass Unit|棚
+Wooden Wall|木の壁
+Window|窓
+Broken Window|壊れた窓
+Broken Window|壊れた窓
+NONE
+NONE
+Glass Unit|棚
+Glass Unit|棚
+Wall|壁
+Broken Window|壊れた窓
+Window|窓
+Border|仕切り

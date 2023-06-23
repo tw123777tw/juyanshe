@@ -1,0 +1,179 @@
+﻿Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+NONE
+Tree|木
+Tree|木
+Tree Overlap|木
+Tree Overlap|木
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Perimeter Wall|屋敷塀
+NONE
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Shrine Entrance|鳥居
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Perimeter Wall|屋敷塀
+Fence Rails|柵
+Crate|賽銭箱
+NONE
+NONE
+NONE
+Temple Roof|神社屋根
+NONE
+NONE
+Lantern|灯籠
+Statue|像
+Statue|像
+NONE
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+NONE
+Lantern|灯籠
+Statue|像
+Statue|像
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+NONE
+NONE
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+Temple Roof|神社屋根
+NONE
+Temple Roof|神社屋根
+NONE
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+NONE
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+NONE
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+Temple|神社
+NONE
+NONE
+Wall|壁
+Wall|壁
+Wall|壁
+Rails||格子
+Rails with Curtain|格子とカーテン
+Rails with Curtain|格子とカーテン
+Shrubs (Grass)|草(草地)
+Bush (Grass)|茂み(草地)
+Logs (Grass)|薪(草地)
+Stump (Grass)|切り株(草地)
+Flower (Grass)|花(草地)
+Wooden Bridge|木の橋
+Wooden Bridge|木の橋
+NONE
+Shrubs (Snow)|草(雪)
+Bush (Snow)|茂み(雪)
+Logs (Snow)|薪(雪)
+Stump (Snow)|切り株(雪)
+Well (Snow)|井戸(雪)
+Snowman|雪だるま
+Melted Snowman|溶けた雪だるま
+NONE
+Tree (Snow)|木(雪)
+Tree (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Cliff Face (Snow)|崖肌(雪)
+Cliff Face (Snow)|崖肌(雪)
+NONE
+NONE
+Tree (Snow)|木(雪)
+Tree (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Tree Overlap (Snow)|木(雪)
+Rock on Cliff (Snow)|岩と崖(雪)
+Stairway (Snow)|階段(雪)
+NONE
+NONE
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+NONE
+NONE
+NONE
+Fence (Snow)|柵(雪)
+Snow
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+NONE
+NONE
+NONE
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)

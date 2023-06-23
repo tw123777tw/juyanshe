@@ -1,0 +1,129 @@
+﻿NONE
+Tree|木
+Tree|木
+Tree|木
+NONE
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+NONE
+Tree|木
+Tree|木
+Tree|木
+NONE
+Tree|木
+Tree|木
+Tree|木
+Flowerbed|花壇
+Flowerbed|花壇
+Flowerbed|花壇
+NONE
+Information Panels|インフォメーションパネル
+Futuristic Fence|近未来フェンス
+NONE
+NONE
+Railings|手すり
+Railings|手すり
+Power Supplier|電源装置
+Power Supplier|電源装置
+NONE
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Railings|手すり
+Railings|手すり
+Power Supplier|電源装置
+Power Supplier|電源装置
+NONE
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Railings|手すり
+Railings|手すり
+Power Supplier|電源装置
+Power Supplier|電源装置
+NONE
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Railings|手すり
+Railings|手すり
+Plant Pot|プランター
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+NONE
+NONE
+Railings|手すり
+Railings|手すり
+Plant Pot|プランター
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+NONE
+NONE
+NONE
+NONE
+Plant Pot|プランター
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+Teleportation Pad|テレポート台
+NONE
+NONE
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+NONE
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

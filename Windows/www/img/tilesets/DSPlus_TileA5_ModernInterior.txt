@@ -1,0 +1,96 @@
+﻿Wooden Platform|木の足場
+Wooden Floor|木の床
+Wooden Floor|木の床
+Carpet|カーペット
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Tiled Floor|タイル床
+Tiled Floor|タイル床
+Carpet|カーペット
+Stone Tiles|石タイル
+Carpet|カーペット
+Carpet|カーペット
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Tiled Floor|タイル床
+Carpet|カーペット
+Decorative Floor|飾り床
+Carpet|カーペット
+Carpet|カーペット
+Carpet|カーペット
+Tiled Floor|タイル床
+Tiled Floor|タイル床
+Tiled Floor|タイル床
+NONE
+Wooden Floor|木の床
+Wooden Floor|木の床
+Stairway|階段
+Wooden Wall|木の壁
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Broken Wooden Floor|壊れた木の床
+Wood Scraps|木の断片
+Basketball Hoop Shadow|バスケットリングの影
+Basketball Hoop Shadow|バスケットリングの影
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Broken Wooden Floor|壊れた木の床
+Stairway (Up)|階段(上)
+Stairway (Down)|階段(下)
+Scuffed Interior Edge|すり減った内装の縁
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Floor|木の床
+Wooden Wall Beam|木の壁の梁
+Wooden Wall Beam|木の壁の梁
+Clock|時計
+Broken Wooden Wall|壊れた木の床
+Cobweb|クモの巣
+Tent Wall Interior|テント内の壁
+Tent Wall Interior|テント内の壁
+Tent Wall Interior|テント内の壁
+Wooden Wall Beam|木の壁の梁
+Interior Edge Protrusion|飛び出た縁
+Broken Wooden Wall|壊れた木の床
+Broken Wooden Wall|壊れた木の床
+Broken Wooden Wall|壊れた木の床
+Tent Wall Interior|テント内の壁
+Tent Wall Interior|テント内の壁
+Tent Wall Interior|テント内の壁
+Curtain|カーテン
+Wall Protrusion|カーテン
+Wall Beam|壁の梁
+Interior Edge Protrusion|飛び出た縁
+Clock|時計
+Tent Floor|テントの床
+Tent Floor|テントの床
+Tent Floor|テントの床
+Curtain|カーテン
+Wall Protrusion|壁の縁
+Wall Protrusion|壁の縁
+Contraption|機械仕掛け
+Gadget|機械装置
+Tent Floor|テントの床
+Tent Floor|テントの床
+Tent Window Flap|テントの窓蓋
+Curtain|カーテン
+Wall Protrusion|壁の縁
+Tatami|たたみ
+Contraption|機械仕掛け
+House Roof|部屋の屋根
+House Roof|部屋の屋根
+Hanging Clothes|壁かけ服
+Hanging Clothes|壁かけ服
+Tatami|たたみ
+Tatami|たたみ
+Tatami|たたみ
+Contraption|機械仕掛け
+House Roof|部屋の屋根
+House Roof|部屋の屋根
+Hanging Clothes|壁かけ服
+Hanging Clothes|壁かけ服

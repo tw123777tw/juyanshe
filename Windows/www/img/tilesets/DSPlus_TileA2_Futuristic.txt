@@ -1,0 +1,36 @@
+﻿MeadowA|草地A
+MeadowB|草地B
+DirtA (MeadowA)|土A（草地A）
+DirtB (MeadowA)|土B（草地A）
+Tall GrassA|丘A
+Tall GrassB|丘B
+Dirt (Snow)|土（雪）
+Table A|テーブルA
+DirtC (MeadowA)|土C（草地A）
+DirtD (MeadowA)|土D（草地A）
+DirtE (MeadowA)|土E（草地A）
+RoadA (Sand)|道A（土）
+Cement|セメント
+Bush (Sand)|茂み（砂地）
+RoadB (Sand)|道B（土）
+Table B|テーブルB
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Rocky Land (Lava)|岩地（溶岩）
+Rocky Land|岩地
+Table C|テーブルC
+Hole (Wood Floor)|穴（木の床）
+Rug A|じゅうたんA
+Rug B|じゅうたんB
+Cobblestones F|石畳F
+Grass (Gravel)|草（砂利）
+Rug C|じゅうたんC
+Tatami Mat|たたみ
+Table D|テーブルD
+
+
+
+

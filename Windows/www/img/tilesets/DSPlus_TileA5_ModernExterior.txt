@@ -1,0 +1,128 @@
+﻿Gravel|砂利
+Tiled Paving|タイル床
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Tarmac|舗装道路
+Drain|排水口
+Drain|排水口
+Manhole Cover|マンホールカバー
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Road Lines|道路線
+Tarmac Tiles|舗装道路のタイル
+Grate|鉄格子
+Grate|鉄格子
+Grate|鉄格子
+Drain (Paving Tiles)|排水口(タイル床)
+Drain (Stone Tile)|排水口(石タイル)
+Stone Tile|石タイル
+Road Lines|道路線
+Grass|草
+Stones (Grass)|石(草)
+Drain (Tarmac)|排水口(舗装道路)
+Drain (Tarmac)|排水口(舗装道路)
+Drain (Paving Tiles)|排水口(タイル床)
+Paving Tiles|タイル床
+Drain (Paving Tiles)|排水口(タイル床)
+Road Lines|道路線
+Sand|砂
+Snow|雪
+Stairs|階段
+Cement|セメント
+NONE
+Water|水場
+Water|水場
+Drained Pool|排水後のプール
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Drained Pool|排水後のプール
+Drained Pool|排水後のプール
+Drained Pool|排水後のプール
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Water|水場
+Water|水場
+Water|水場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Ballcourt|球場
+Drain (Water)|排水口(水場)
+Drain|排水口
+Wall (Water)|壁(水場)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Water|水場
+Water|水場
+Wall (Water)|壁(水場)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Crevasse|裂け目
+Crevasse|裂け目
+Crevasse|裂け目
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Cobblestone (Grass)|石畳(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Crevasse|裂け目
+Crevasse|裂け目
+Crevasse|裂け目
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Cliff Opening (Grass)|崖穴(草)
+Cliff Opening (Sand)|崖穴(砂)
+Cliff Opening (Snow)|崖穴(雪)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Water|水場
+NONE
+Cliff Opening (Grass)|崖穴(草)
+Cliff Opening (Sand)|崖穴(砂)
+Cliff Opening (Snow)|崖穴(雪)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Metal Floor (Grass)|鉄床(草)
+Rock Stairway|岩の階段
+Snow Stairway|雪の階段
+Rock on Cliff (Grass)|崖の岩(草)
+Cliff (Grass)|崖(草)
+Cliff (Grass)|崖(草)
+NONE
+NONE
+NONE
+Wooden Bridge|木の橋
+Wooden Bridge|木の橋
+Rock on Cliff (Sand)|崖の岩(砂)
+Cliff (Sand)|崖(砂)
+Cliff (Sand)|崖(砂)
+NONE
+NONE
+NONE
+NONE
+NONE
+Rock on Cliff (Snow)|崖の岩(雪)
+Cliff (Snow)|崖(雪)
+Cliff (Snow)|崖(雪)

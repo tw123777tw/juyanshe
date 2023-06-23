@@ -1,0 +1,135 @@
+﻿TRANSPARENT|透明
+Ladder|ハシゴ
+Rails|柵
+Rails|柵
+NONE
+NONE
+NONE
+NONE
+NONE
+Ladder|ハシゴ
+Rails|柵
+Rails|柵
+TRANSPARENT|透明
+Bow|船首
+Bow|船首
+Bow|船首
+NONE
+Cage|ケージ
+Cage|ケージ
+Vase|壺
+Bow|船首
+Bow|船首
+Bow|船首
+Bow|船首
+Bow|船首
+Cage|ケージ
+Cage|ケージ
+Anchor Hitch|錨掛け
+Bow|船首
+Bow|船首
+NONE
+Bow|船首
+Bow|船首
+Rowboat|ボート
+Rowboat|ボート
+Anchor Hitch|錨掛け
+Bow|船首
+Prow|へさき
+Prow|へさき
+Prow|へさき
+Bow|船首
+Crate|木箱
+Barrel|樽
+Floatation Ring|浮き輪
+Deck|デッキ
+Mast|マスト
+Prow|へさき
+Mast|マスト
+Deck|デッキ
+Crate|木箱
+Rope|ロープ
+Anchor|錨
+Deck|デッキ
+Helm|舵輪
+Prow|へさき
+Mast|マスト
+Deck|デッキ
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Deck|デッキ
+Helm|舵輪
+Prow|へさき
+Mast|マスト
+Deck|デッキ
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Poopdeck|後部甲板
+Poopdeck|後部甲板
+Prow|へさき
+Mast|マスト
+Poopdeck|後部甲板
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Crow's Nest|見張り台
+Stern|船尾
+Cannon|大砲
+Cannon|大砲
+Cannon|大砲
+Stern|船尾
+NONE
+Mast|マスト
+NONE
+Stern|船尾
+Cannon|大砲
+Cannon|大砲
+Cannon|大砲
+Stern|船尾
+NONE
+Mast|マスト
+NONE
+Stern|船尾
+Cannon|大砲
+Cannon|大砲
+Cannon|大砲
+Stern|船尾
+NONE
+Mast|マスト
+NONE
+NONE
+Cannon|大砲
+Cannon|大砲
+Cannon|大砲
+NONE
+NONE
+NONE
+NONE
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+NONE
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+Sail|帆
+NONE
+Rock|岩
+Rock|岩
+Rock|岩
+Rock Cliff Edge|岩の崖の縁
+Rock Cliff Edge|岩の崖の縁
+Rock Cliff Edge|岩の崖の縁
+NONE
+NONE
+Rock|岩
+Rock|岩
+Rock|岩

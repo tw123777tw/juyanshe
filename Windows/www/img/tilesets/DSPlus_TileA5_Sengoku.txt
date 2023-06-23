@@ -1,0 +1,128 @@
+﻿Grass|草
+Snow|床
+Water|水場
+Water|水場
+Stone Wall|石壁
+Dirt|土
+Wooden Floor|木の床
+Thatched Floor|藁葺の床
+Stones (Grass)|石(草)
+Sand|砂
+Gravel|砂利
+Wooden Floor|木の床
+Stone Wall|石壁
+Stairway|階段
+Stairway|階段
+Stairway|階段
+Wooden Floor|木の床
+Wooden Floor|木の床
+Gravel|砂利
+Wooden Floor|木の床
+Stairway (Snow)|階段(雪)
+Stairway (Rock)|階段(岩)
+Stairway (Stone)|階段(石)
+Stairway (Stone Pattern)|階段(石)
+Stone Tiles|石タイル
+Stone Tiles|石タイル
+Rock|岩
+Tatami|たたみ
+Tatami|たたみ
+Tatami|たたみ
+Stairway (Down)|階段(下)
+Stairway (Up)|階段(上)
+Stone Floor|石の床
+Stone Floor|石の床
+Tatami|たたみ
+Tatami|たたみ
+Tatami|たたみ
+NONE
+Cliff (Grass)|崖(草)
+Cliff (Grass)|崖(草)
+Crevasse|裂け目
+Crevasse|裂け目
+Crevasse|裂け目
+Wooden Platform|木の足場
+Wooden Platform|木の足場
+Wooden Platform|木の足場
+Cliff (Sand)|崖(砂)
+Cliff (Sand)|崖(砂)
+Crevasse|裂け目
+Crevasse|裂け目
+Crevasse|裂け目
+Wooden Platform|木の足場
+Wooden Platform|木の足場
+Wooden Platform|木の足場
+Cliff (Snow)|崖(雪)
+Cliff (Snow)|崖(雪)
+Stone Surface|石の表面
+Stone Surface|石の表面
+Stone Surface|石の表面
+Platform Support|足場の足
+Platform Support|足場の足
+Platform Support|足場の足
+Rock on Cliff (Grass)|崖の石(草)
+Rock on Cliff (Sand)|崖の石(砂)
+Stone Surface|石の表面
+Stone Surface|石の表面
+Stone Surface|石の表面
+Platform Support|足場の足
+Platform Support|足場の足
+Platform Support|足場の足
+Darkness|暗闇
+Rock on Cliff (Snow)|崖の石(雪)
+Stone Wall|石壁
+Stone Wall|石壁
+Stone Wall|石壁
+Under Platform|足場の下
+Platform Support|足場の足
+Cliff Opening (Grass)|崖の穴(草)
+Cliff Opening (Sand)|崖の穴(砂)
+Cliff Opening (Snow)|崖の穴(雪)
+Stone Wall|石壁
+Stone Wall|石壁
+Stone Wall|石壁
+Under Platform|足場の下
+Platform Support|足場の足
+Cliff Opening (Grass)|崖の穴(草)
+Cliff Opening (Sand)|崖の穴(草)
+Cliff Opening (Snow)|崖の穴(雪)
+Water (Stone Wall)|水場(石壁)
+Water (Stone Wall)|水場(石壁)
+Water (Stone Wall)|水場(石壁)
+Crops (Field)|農作物(畑)
+Field|畑
+Wooden Fence|木の柵
+Wooden Fence|木の柵
+Wooden Fence|木の柵
+Stone Wall|石壁
+Stone Wall|石壁
+Stone Wall|石壁
+Crops (Field)|農作物(畑)
+Field|畑
+Wooden Fence|木の柵
+Grass|草
+Wooden Fence|木の柵
+Stone Surface Corners|石の表面の角
+Stone Surface Corners|石の表面の角
+Stone Wall Window|石壁の窓
+Crops (Field)|農作物(畑)
+Field|畑
+Wooden Fence|木の柵
+Wooden Fence|木の柵
+Wooden Fence|木の柵
+Stone Surface Edges|石の表面の縁
+Stone Surface Edges|石の表面の縁
+Water (Stone Wall Window)|水場(石壁の窓)
+Field|畑
+Field|畑
+Field|畑
+Wooden Fence|木の柵
+Wooden Fence|木の柵
+Stone Surface Edges|石の表面の縁
+Stone Surface Edges|石の表面の縁
+Stone Wall Window|石壁の窓
+Crops (Field)|農作物(畑)
+Crops (Field)|農作物(畑)
+Crops (Field)|農作物(畑)
+Wooden Fence|木の柵
+Wooden Fence|木の柵

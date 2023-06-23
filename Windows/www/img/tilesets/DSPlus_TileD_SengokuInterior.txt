@@ -1,0 +1,213 @@
+﻿Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Window|壁と窓
+Sword Display|刀掛け
+Sword Display|刀掛け
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Beam|壁と梁
+Wall with Window|壁と窓
+Wall Scroll|壁掛け額
+Wall Scroll|壁掛け額
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Religious Decoration|宗教飾り
+Wall with Window|壁と窓
+Wall|壁
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Window|壁と窓
+Wall with Religious Decoration|宗教飾り
+Wall with Window|壁と窓
+Door|扉
+Wall with Window|壁と窓
+Wall with Vegetables|壁と野菜
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Sliding Door|引き戸
+Door|扉
+Door|扉
+Door|扉
+Screen|障子
+Screen|障子
+Unit|棚
+Sword Display|刀置き
+Wall Protrusion|壁突起
+Door|扉
+Door|扉
+Door|扉
+Screen|障子
+Screen|障子
+Unit|棚
+Thatched Mat|ござ
+Wall with Scroll|壁と掛け軸
+Window|窓
+Scroll|掛け軸
+Picture Frame|絵画
+Shelf|棚
+Shelf|棚
+Unit|棚
+Flowerpot|生け花
+Thatched Floor in Protrusion|突起・ござ床
+Window|窓
+Scroll|掛け軸
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Decorative Wall Piece|飾り壁
+Hearth|囲炉裏
+Potted Plant|植木鉢
+Candlestick|ロウソク立て
+Vase|壺
+Bucket|桶
+Logs|薪
+Bowl|ザル
+Cask|米俵
+Potted Plant|植木鉢
+Potted Plant|植木鉢
+Barrel|樽
+Bucket with Lid|蓋つき桶
+Bucket|桶
+Bowl of Vegetables|ザルと野菜
+Picture Frame|絵画
+Hibachi|火鉢
+Rolls of Fabric|反物
+Rolls of Fabric|反物
+Sacks|袋
+Haystack|干し草
+Haystack|干し草
+Barrel Stack|米俵
+Barrel Stack|米俵
+Rice Pounder|杵臼
+Stack of Crates|木箱
+Crate|木箱
+Wall Decoration|蓑とかさ
+Haystack|干し草
+Haystack|干し草
+Barrel Stack|米俵
+Barrel Stack|米俵
+Mat|敷物
+Stack of Crates|木箱
+Crate|木箱
+Rolls of Fabric|反物
+Stool|いす
+Table|机
+Cup|コップ
+Garlic|にんにく
+Tray and Cup|トレイとコップ
+Tray and Cup|トレイとコップ
+Teapot and Cup|ポットとコップ
+Rolls of Fabric|反物
+Table|机
+Table|机
+Table|机
+Rails|柵
+Clothesline|物干し竿
+Clothesline|物干し竿
+Clothesline|物干し竿
+Table|机
+Table|机
+Table with Food|机
+Table with Food|机
+Table with Food|机
+Table with Cloth|机
+Table|机
+Table|机
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Drawers|タンス
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Drawers|タンス
+Unit with Shelves|棚
+BookShelf|棚
+Firing Oven|かまど
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Shelves|棚
+Unit with Drawers|タンス
+Unit with Shelves|棚
+BookShelf|棚
+Firing Oven|かまど
+Bed|ベッド
+Chair|イス
+Futon|布団
+Lantern|行燈
+Lantern|灯籠
+Lectern|書物置き
+Sword Display|刀置き
+Sink|ながし
+Bed|ベッド
+Blanket (Bed)|毛布(ベッド)
+Futon|布団
+Altar|神棚
+Inkwell and Paper|紙と筆
+Pew|腰掛け
+Screen|屏風
+Sink|ながし
+Bed|ベッド
+Cushion|座布団
+Pillar|柱
+Rock|岩
+Wooden Rail|木の柵
+Wooden Rail|木の柵
+Screen|屏風
+Screen|屏風
+Futon|布団
+Futon|布団
+Pillar|柱
+Rock|岩
+Bush|茂み
+Wooden Rail|木の柵
+Screen|屏風
+Screen|屏風
+Futon|布団
+Futon|布団
+Pillar|柱
+Thatched Mat|ござ
+Futon|布団
+Thatched Mat|ござ
+Thatched Mat|ござ
+Thatched Mat|ござ
+NONE
+NONE
+NONE
+Thatched Mat|ござ
+Futon|布団

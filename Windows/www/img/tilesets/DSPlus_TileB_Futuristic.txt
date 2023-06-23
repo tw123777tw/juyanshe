@@ -1,0 +1,248 @@
+﻿TRANSPARENT|透明
+Metal Wall|鉄壁
+Metal Wall|鉄壁
+Metal Wall|鉄壁
+Controller (Metal Wall)|制御装置(鉄壁)
+Interior Edge|内装縁
+Wall Pipe|壁の管
+Wall Pipe|壁の管
+Metal Wall|鉄壁
+Metal Wall|鉄壁
+Metal Wall|鉄壁
+Metal Wall|鉄壁
+Controller (Metal Wall)|制御装置(鉄壁)
+Metal Wall|鉄壁
+Wall Pipe|壁の管
+Wall Pipe|壁の管
+Wall Cables|壁のケーブル
+Wall Cables|壁のケーブル
+Metal Wall|鉄壁
+Wall Duct|壁のダクト
+Wall Screen|壁の画面
+Lamp|ランプ
+Computer Monitor|コンピュータ画面
+Wall Pipe|壁の管
+Wall Cables|壁のケーブル
+Wall Cables|壁のケーブル
+Wall Vent|壁の通気孔
+Wall Plate|壁の板
+Wall Screen|壁の画面
+Lamp|ランプ
+Computer Monitor|コンピュータ画面
+Bookshelf|本棚
+Metal Wall|鉄壁
+Screen|画面
+Screen|画面
+Screen|画面
+Radar|レーダー
+Information Screen|情報画面
+Desk Corner|机の角
+Books on Desk|机と本
+Metal Wall|鉄壁
+Screen|画面
+Screen|画面
+Screen|画面
+Information Panels|情報パネル
+Information Screen|情報画面
+Desk|机
+Books on Desk|机と本
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Screen|情報画面
+Wall Protrusion|壁の突起
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Information Panels|情報パネル
+Information Panels|情報パネル
+Information Screen|情報画面
+Wall Protrusion|壁の突起
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Isometric Screen|アイソメ画面
+Information Panels|情報パネル
+Information Panels|情報パネル
+Power Supply|電源
+Wall Protrusion|壁の突起
+Screen|画面
+Screen|画面
+Screen|画面
+Screen|画面
+Screen|画面
+NONE
+Power Supply|電源
+Wall Protrusion|壁の突起
+Screen|画面
+Screen|画面
+Screen|画面
+Screen|画面
+Screen|画面
+Generator|発電機
+Generator|発電機
+Generator|発電機
+Platform|足場
+Platform|足場
+Wall Protrusion|壁の突起
+Holographic Screen|ホログラム画面
+Holographic Screen|ホログラム画面
+Generator|発電機
+Generator|発電機
+Generator|発電機
+Platform Light|足場のライト
+Platform Light|足場のライト
+Hologram|ホログラム
+Hologram|ホログラム
+Holographic Screen|ホログラム画面
+Lit Wall|光った壁
+Vent|通気孔
+Closed Duct|閉じたダクト
+Unlit Light|消灯
+Lit Light|点灯
+Station|駅
+Station|駅
+Station|駅
+Light|ライト
+Generator|発電機
+Generator|発電機
+Folder Sign|記号フォルダ
+Folder Sign|記号フォルダ
+Station|駅
+Station|駅
+Station|駅
+Gadget|ガジェット
+Red Laser|赤い光
+Green Laser|緑の光
+Folder Sign|記号フォルダ
+Folder Sign|記号フォルダ
+Folder Sign|記号フォルダ
+Folder Sign|記号フォルダ
+Empty Plant Pot|空の植木鉢
+Empty Plant Pot|空の植木鉢
+Empty Plant Pot|空の植木鉢
+Empty Plant Pot|空の植木鉢
+Upper Cliff Edge|崖の縁
+Upper Cliff Edge|崖の縁
+Upper Cliff Edge|崖の縁
+NONE
+Plant Pot|植木鉢
+Plant Pot|植木鉢
+Plant Pot|植木鉢
+Palm Tree|ヤシの木
+Electronic Gate|電動扉
+Electronic Gate|電動扉
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Sculpture|彫刻
+Sculpture|彫刻
+Palm Tree|ヤシの木
+Electronic Gate|電動扉
+Electronic Gate|電動扉
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Sculpture|彫刻
+Sculpture|彫刻
+Potted Plant|鉢植え
+Futuristic Stairway|近未来階段
+Futuristic Stairway|近未来階段
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleport Swirl|テレポートの渦
+Teleport Swirl|テレポートの渦
+Potted Plant|鉢植え
+Information Screen|情報画面
+Information Vendor|情報販売機
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleport Swirl|テレポートの渦
+Teleport Swirl|テレポートの渦
+NONE
+Information Screen|情報画面
+Information Vendor|情報販売機
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Mailbox|メールボックス
+Mailbox|メールボックス
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Mailbox|メールボックス
+Mailbox|メールボックス
+Computer|コンピュータ
+Chair|イス
+Chair|イス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Shelf|棚
+Poster|ポスター
+Computer|コンピュータ
+Chair|イス
+Chair|イス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Screen Middle|画面中央
+Table|テーブル
+Table|画面中央
+Chair|イス
+Hologram|ホログラム
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Screen Middle|画面中央
+NONE
+Stool|イス
+Chair|イス
+Bed|ベッド
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Futuristic Fence|近未来フェンス
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+NONE
+Chair|イス
+Bed|ベッド
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+Plant Pot|植木鉢
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+NONE
+NONE
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+Plant Pot|植木鉢
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+Teleportation Pad|テレポート装置
+NONE
+NONE
+Power Supplier|電力供給機
+Power Supplier|電力供給機
+Plant Pot|植木鉢
+NONE
+NONE
+NONE

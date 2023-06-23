@@ -1,0 +1,257 @@
+﻿Transparent|透明
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+NONE
+Window|窓
+Window|窓
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Wall|壁
+Wall|壁
+Wall|壁
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Wall|壁
+Window|窓
+Wall|壁
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Wall|壁
+Window|窓
+Wall|壁
+Broken Rooftop|壊れた屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Broken Rooftop|壊れた屋上
+Broken Rooftop|壊れた屋上
+Rooftop with Rocks|屋上の石
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Wall with Grass|壁と草
+Wall with Grass|壁と草
+Rooftop with Rocks|屋上の石
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Broken Window|壊れた窓
+Broken Window|壊れた窓
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Broken Window|壊れた窓
+Window|窓
+Window|窓
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Table|テーブル
+Window|窓
+Sign|看板
+Sign|看板
+Rooftop|屋上
+Rooftop|屋上
+Table with Goods|机と商品
+Table with Goods|机と商品
+Table with Goods|机と商品
+Sign|看板
+Sign|看板
+Sign|看板
+Sign|看板
+Sign|看板
+Crate|木箱
+Curtain|カーテン
+Curtain|カーテン
+Thatched Mat|ござ
+Buckets|バケツ
+Logs|薪
+Lantern|灯籠
+Statue|石像
+Statue|石像
+Statue|石像
+Statue|石像
+Thatched Mat|ござ
+Cushion|座布団
+Sign|看板
+Parasol|傘
+Table|テーブル
+Rock|岩
+Parasol|傘
+Parasol|傘
+Thatched Mat|ござ
+Thatched Mat|ござ
+Thatched Mat|ござ
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Parasol|傘
+Parasol|傘
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Roof Gable|妻壁
+Roof Gable|妻壁
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Rooftop|屋上
+Window|窓
+Roof Gable|妻壁
+Roof Gable|妻壁
+Rooftop|屋上
+Rooftop|屋上
+Wall on Roof|屋根壁
+Wall on Roof|屋根壁
+Rooftop|屋上
+Wall|壁
+Wall|壁
+Wall|壁
+Rooftop|屋上
+Wall on Roof|屋根壁
+Window (Wall on Roof)|窓(屋根壁)
+Window (Wall on Roof)|窓(屋根壁)
+Rooftop|屋上
+Shop Veranda|店先
+Shop Veranda|店先
+Shop Veranda|店先
+Wall|壁
+Wall|壁
+Wall|壁
+Wall|壁
+Wall|壁
+Wooden Railings|木の手すり
+Wooden Railings|木の手すり
+Wooden Railings|木の手すり
+Wall|壁
+Door|ふすま
+Door|ふすま
+Door|ふすま
+Wall|壁
+River|川
+River|川
+River|川
+Window|窓
+Window|窓
+Window|窓
+NONE
+NONE
+NONE
+Railings over River|川の上の手すり
+Railings over River|川の上の手すり
+River|川
+River|川
+River|川
+River|川
+River|川
+NONE
+Railings over River|川の上の手すり
+Railings over River|川の上の手すり
+River|川
+NONE
+River|川
+River|川
+River|川
+NONE
+Railings over River|川の上の手すり
+Railings over River|川の上の手すり
+River|川
+River|川
+River|川
+NONE
+NONE
+NONE
+Railings over River|川の上の手すり
+Railings over River|川の上の手すり
+NONE
+NONE
+Perimeter Opening Rooftop|塀入口屋根
+Perimeter Opening Rooftop|塀入口屋根
+Perimeter Opening Rooftop|塀入口屋根
+NONE
+NONE
+NONE
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Opening|塀入口
+Perimeter Opening|塀入口
+Perimeter Opening|塀入口
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Opening|塀入口
+NONE
+Perimeter Opening|塀入口
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+NONE
+NONE
+Perimeter Opening Rooftop|塀入口屋根
+Perimeter Opening Rooftop|塀入口屋根
+Perimeter Opening Rooftop|塀入口屋根
+NONE
+NONE
+NONE
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Opening|塀入口
+Perimeter Opening|塀入口
+Perimeter Opening|塀入口
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Opening|塀入口
+NONE
+Perimeter Opening|塀入口
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀
+Perimeter Wall|仕切り塀

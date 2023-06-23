@@ -1,0 +1,142 @@
+﻿Stone Tile|石タイル
+Moss (Stone Tile)|コケ（石タイル）
+Moss (Stone Tile)|コケ（石タイル）
+Grate|鉄格子
+Cobblestone|敷石
+Cobblestone|敷石
+Railings (Cobblestone)|柵（敷石）
+NONE
+Dark Stone Tile|濃石タイル
+Manhole Cover|マンホールカバー
+Cracked Stone|石ヒビ
+Drainpipe|排水管
+Grate|鉄格子
+Grate|鉄格子
+NONE
+NONE
+Wall Pipes|壁パイプ
+Wall Pipes|壁パイプ
+Wall Pipes|壁パイプ
+Wall Pipes|壁パイプ
+Wall Grate|壁鉄格子
+Open Wall Grate|壁鉄格子空き
+Wall Light (Off)|壁ライト（オフ）
+Wall Light (On)|壁ライト（オン）
+Wall|壁
+Sewer Walkway Pipes|下水道パイプ
+Sewer Walkway Controls|下水道管制
+Sewer Walkway Controls|下水道管制
+Sewer Walkway Grate|下水道鉄格子
+Cracked Sewer Walkway|下水道ヒビ
+Mossy Sewer Walkway|下水道コケ
+Lit Sewer Walkway|下水道光
+Vertical Rail A|縦ハシゴA
+Vertical Rail B|縦ハシゴB
+NONE
+Wall Vent|通気孔
+Wall|壁
+Opening|通路
+Metal Wall|鉄壁
+Entryway|出入口
+Horizontal Rail A|横ハシゴA
+Horizontal Rail B|横ハシゴB
+NONE
+NONE
+NONE
+NONE
+NONE
+Entryway|出入口
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Entryway|出入口
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Grate|鉄格子
+Wooden Floor|木床
+Wooden Rails|木道
+Stairway (Up)|階段（上）
+Stairway (Down)|階段（下）
+Fish Storage|魚入れ容器
+Fish Storage|魚入れ容器
+NONE
+NONE
+Wooden Wall|木壁
+Wooden Floor|木床
+Stairway|階段
+Railings|柵
+Fish Storage|魚入れ容器
+Fish Storage|魚入れ容器
+NONE
+NONE
+Wooden Floor|木床
+Wooden Floor|木床
+Broken Wooden Floor|木床壊れ
+Broken Wooden Floor|木床壊れ
+Wood Scrap|木壊れ
+Porthole|舷窓
+NONE
+NONE
+Wooden Wall Beam|木壁梁
+Scuffed Interior Edge|擦り切れた内部の縁
+Clock|時計
+Broken Wooden Wall|木壁壊れ
+Cobweb|クモの巣
+Porthole|舷窓
+NONE
+NONE
+Wooden Wall Beam|木壁梁
+Wooden Wall Beam|木壁梁
+Broken Wooden Wall|木壁壊れ
+Broken Wooden Wall|木壁壊れ
+Broken Wooden Wall|木壁壊れ
+Porthole|舷窓
+Rock|岩
+Rock Alternative|新岩
+Elevated Rock|岩段差
+Elevated Rock|岩段差
+Elevated Rock|岩段差
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+Rock Alternative|新岩
+Rock Alternative|新岩
+Elevated Rock|岩段差
+Elevated Rock|岩段差
+Elevated Rock|岩段差
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+Magma Crack|マグマの裂け目
+Magma Crack|マグマの裂け目
+Elevated Rock Corner|岩段差角
+Elevated Rock Corner|岩段差角
+NONE
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+Indented Rock|岩凹み
+NONE
+NONE
+Elevated Rock Corner|岩段差角
+Elevated Rock Corner|岩段差角
+NONE
+NONE
+Indented Rock Corner|岩凹み角
+Indented Rock Corner|岩凹み角
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Indented Rock Corner|岩凹み角
+Indented Rock Corner|岩凹み角
