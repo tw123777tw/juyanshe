@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>巨研社存档管理</title>
+<script type="text/javascript">
+var LN;
+var VN;
+var AN;
+var SN = document.createElement("style");
+SN.type = "text/css";
+var attr;
+function lic(a,i){
+	attr = a;
+	VN.value = localStorage[a];
+	SN.innerText = "li:nth-child("+i+"){background-color:aqua}";
+}
+function d(){
+if(!localStorage){document.body.innerHTML="不支持的浏览器";return;}
+	LN = document.body.childNodes[1];
+	VN = document.body.childNodes[3];
+	AN = document.body.childNodes[9];
+	document.body.appendChild(SN);
+	var i = 0;
+	for(var a in localStorage){
+		i ++;
+		if(localStorage.hasOwnProperty(a)){LN.innerHTML += '<li onclick="lic(\''+a+'\','+i+')">'+a+"</li>";}
+	}
+	LN.firstElementChild.click();
+}
+</script>
+</head>
+<body onload="d()">
+<ul></ul>
+<textarea rows=5 style="width:100%"></textarea>
+<button type="submit" onclick="localStorage[attr]=VN.value">提交</button>
+<br/>
+<input type="text"></input>
+<button type="button" onclick="localStorage[AN.value]='';location.reload()">+</button>
+<button type="button" onclick="delete localStorage[AN.value];location.reload()">-</button>
+</body>
+</html>
