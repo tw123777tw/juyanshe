@@ -41,5 +41,9 @@ if(!localStorage){document.body.innerHTML="不支持的浏览器";return;}
 <input type="text"></input>
 <button type="button" onclick="localStorage[AN.value]='';location.reload()">+</button>
 <button type="button" onclick="delete localStorage[AN.value];location.reload()">-</button>
+<hr>
+<button type="button" onclick="this.nextElementSibling.nextElementSibling.value = 'for(i in t ='+JSON.stringify(localStorage)+'){localStorage[i]=t[i];}'">一键导出</button>
+<button type="button" style="background-color:pink;font-weight:900" onclick="if(confirm('确定执行脚本？可能会毁存档！')){try{eval(this.nextElementSibling.value);location.reload();}catch(e){alert(e)}}">导入/执行</button>
+<textarea rows=5 style="width:100%"></textarea>
 </body>
 </html>
