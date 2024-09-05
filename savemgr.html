@@ -22,7 +22,7 @@ function d(){
 if(!localStorage){document.body.innerHTML="不支持的浏览器";return;}
 	LN = document.body.childNodes[1];
 	VN = document.body.childNodes[3];
-	AN = document.body.childNodes[9];
+	AN = document.body.childNodes[13];
 	document.body.appendChild(SN);
 	var i = 0;
 	for(var a in localStorage){
@@ -32,10 +32,13 @@ if(!localStorage){document.body.innerHTML="不支持的浏览器";return;}
 	LN.firstElementChild.click();
 }
 </script>
+<script type="text/javascript" src="./Windows/www/js/libs/lz-string.js"></script>
 </head>
 <body onload="d()">
 <ul></ul>
 <textarea rows=5 style="width:100%"></textarea>
+<button type="button" onclick="VN.value=LZString.decompressFromBase64(VN.value)">解压</button>
+<button type="button" onclick="VN.value=LZString.compressToBase64(VN.value)">压缩</button>
 <button type="submit" onclick="localStorage[attr]=VN.value">提交</button>
 <br/>
 <input type="text"></input>
